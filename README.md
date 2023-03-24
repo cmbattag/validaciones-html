@@ -1,2 +1,2 @@
-# vlidaciones-html
+# validaciones-html
 formularios de vlidacion
